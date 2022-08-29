@@ -1,0 +1,23 @@
+body {
+font-family:Helvetica;
+}
+
+h1 {
+text-shadow: 2px 2px;
+border: solid 3px;
+display: inline;
+}
+
+#intro {
+    font-size: 140%;
+    border-bottom: 4px solid #8bbf75; 
+    display: inline-block;
+    padding-bottom: 5px;
+    background-color:#c4e0b8;
+    margin-top: -10px;
+    border-radius: 5px;
+}
+
+h2 {
+border: 4px 4px 1px 4px;
+}
