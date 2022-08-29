@@ -3,9 +3,10 @@ font-family:Helvetica;
 }
 
 h1 {
-text-shadow: 2px 2px;
-border: solid 3px;
+border: solid 1px;
 display: inline;
+border-radius: 5px;
+background-image: linear-gradient(lightGreen, darkGreen);
 }
 
 #intro {
@@ -15,9 +16,13 @@ display: inline;
     padding-bottom: 5px;
     background-color:#c4e0b8;
     margin-top: -10px;
-    border-radius: 5px;
+    border-radius: 7px;
 }
 
 h2 {
-border: 4px 4px 1px 4px;
+border: solid 2px;
+border-bottom: 0px;
+border-radius: 5px;
+width: 142px;
 }
+
